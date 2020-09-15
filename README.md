@@ -30,9 +30,6 @@ System parameter requirements:
 7. Time-consuming: no more than 500ms
 8. Network status: running offline
 
-## Expected Deliverable
+## Deliverable
 1. Indoor environment, accurately measure the side length of the goods, the unilateral error is less than 3 ‰. 
 2. Indoor environment, accurately measure the volume of the goods, the error is less than 1%.
-
-## Notes
-1. ColorSpec (Color Specification) https://www.mathworks.com/help/matlab/ref/colorspec.html
